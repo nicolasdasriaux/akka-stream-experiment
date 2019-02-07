@@ -1,0 +1,5 @@
+<artifactId>akkatour</artifactId>
+<artifactId>akka-actor_2.12</artifactId>
+<artifactId>akka-testkit_2.12</artifactId>
+<artifactId>akka-stream_2.12</artifactId>
+<artifactId>akka-stream-testkit_2.12</artifactId>
